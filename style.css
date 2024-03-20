@@ -5,7 +5,7 @@
 }
 
 body{
-    background: url(/images/pattern-hills.svg), url(/images/bg-stars.svg);
+    background: url(./images/pattern-hills.svg), url(./images/bg-stars.svg);
     background-color: hsl(234, 17%, 12%);
     background-repeat: no-repeat;
     background-position: bottom;
